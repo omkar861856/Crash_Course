@@ -1,0 +1,21 @@
+/* 3 different ways you can select the elements and style them */
+
+/* selecting by tag name */
+
+h1{
+    color: red;
+    background-color: aqua;
+}
+
+#heading2{
+    color: green;
+    border: 2px dashed rgb(199, 97, 97);
+}
+
+.box{
+    border: 2px solid black;
+    width: 100px;
+    padding: 5px;
+    margin: 10px;
+}
+
